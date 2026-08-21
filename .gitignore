@@ -1,0 +1,25 @@
+# Artefatos de compilacao
+build/*
+!build/.gitkeep
+*.o
+*.a
+*.d
+
+# Cobertura (gcovr)
+*.gcda
+*.gcno
+*.gcov
+coverage/
+
+# Doxygen
+docs/html/
+docs/latex/
+
+# Editores e ferramentas
+.vscode/
+.idea/
+compile_commands.json
+.cache/
+
+# Binario do jogo
+pindorama
