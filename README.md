@@ -8,12 +8,12 @@ Jogo de simulação de fazenda em C++ com interface gráfica em raylib, desenvol
 
 | # | Nome | Bloco |
 |---|------|-------|
-| 1 | _(preencher)_ | Tempo e orquestração |
-| 2 | _(preencher)_ | Mapa e interface |
-| 3 | _(preencher)_ | Cultivo |
-| 4 | _(preencher)_ | Itens |
-| 5 | _(preencher)_ | Economia |
-| 6 | _(preencher)_ | Dados e persistência |
+| 1 | _(Enzo)_ | Tempo e orquestração |
+| 2 | _(Lucas Lemos)_ | Mapa e interface |
+| 3 | _(Paola)_ | Cultivo |
+| 4 | _(Aline)_ | Itens |
+| 5 | _(Jonathan)_ | Economia |
+| 6 | _(Lucas Lemos)_ | Dados e persistência |
 
 ## Descrição do problema
 
@@ -29,8 +29,6 @@ O tempo do jogo corre em passos (ticks) de 10 minutos de jogo. O solo seca depoi
 - Entregar um código documentado, com contratos claros (`@pre`, `@post`, `@throws`) entre os blocos de cada integrante.
 
 ## Motivação
-
-_(Rascunho: ajustem com as razões reais do grupo.)_
 
 Jogos de fazenda reúnem, em um escopo pequeno, quase todos os problemas de projeto de software que a disciplina cobra: muitos objetos com estados que evoluem no tempo, coleções de itens de tipos diferentes, regras que se influenciam (tempo, água, crescimento, dinheiro), persistência em arquivo e tratamento de erros. Escolher um jogo permite ver o efeito de cada decisão de projeto de forma visível na tela, e o tema, em português e com nome indígena, aproxima o projeto do nosso contexto.
 
