@@ -4,8 +4,8 @@
 #include <cstddef>
 #include <vector>
 
-#include "Tile.hpp"          // Integrante 3
-#include "TimeObserver.hpp"  // Integrante 1 (GameMinutes + TimeObserver)
+#include "Tile.hpp"          // Integrante 3 Lucas
+#include "TimeObserver.hpp"  // Integrante 1 (GameMinutes + TimeObserver) - Enzo
 
 namespace pindorama {
 
