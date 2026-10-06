@@ -10,6 +10,11 @@ namespace pindorama{
     using GameMinutes = int;
 
     /**
+     * @brief Constant variable of how many game minutes is represented by one tick.
+     */
+    const GameMinutes kTickMinutes = 10;
+
+    /**
      * @brief Receives time notifications from GameClock.
      * 
      * Implemented by anyone that reacts to game minutes.
