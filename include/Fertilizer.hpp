@@ -1,5 +1,5 @@
-#ifndef FERTILIZER_HPP 
-#define FERTILIZER_HPP
+#ifndef PINDORAMA_FERTILIZER_HPP 
+#define PINDORAMA_FERTILIZER_HPP
 
 #include "Item.hpp"
 
