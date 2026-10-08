@@ -1,5 +1,5 @@
-#ifndef INVENTORY_HPP
-#define INVENTORY_HPP
+#ifndef PINDORAMA_INVENTORY_HPP
+#define PINDORAMA_INVENTORY_HPP
 
 #include <string>
 #include <memory>

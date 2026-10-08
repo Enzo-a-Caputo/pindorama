@@ -1,5 +1,5 @@
-#ifndef SEED_HPP
-#define SEED_HPP
+#ifndef PINDORAMA_SEED_HPP
+#define PINDORAMA_SEED_HPP
 #include <string>
 
 #include "Item.hpp"

@@ -1,5 +1,5 @@
-#ifndef ITEM_HPP
-#define ITEM_HPP
+#ifndef PINDORAMA_ITEM_HPP
+#define PINDORAMA_ITEM_HPP
 
 #include <string>
 

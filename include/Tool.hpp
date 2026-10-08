@@ -1,5 +1,5 @@
-#ifndef TOOL_HPP
-#define TOOL_HPP
+#ifndef PINDORAMA_TOOL_HPP
+#define PINDORAMA_TOOL_HPP
 #include "Item.hpp"
 
 namespace pindorama {
