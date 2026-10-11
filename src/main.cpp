@@ -9,14 +9,26 @@ constexpr const char* GAME_TITLE = "Pindorama";
 
 int main(){
     InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, GAME_TITLE);
+
+    //teste 
+    Texture2D image = LoadTexture("assets/sprites/tiles/Path_Middle.png");
+    //teste
+    Vector2 imagePos{0.f, 0.f};
+
+
     SetTargetFPS(TARGET_FPS);
 
-    while(!WindowShouldClose()){
+    while(!WindowShouldClose())
+    {
         BeginDrawing();
-            ClearBackground(DARKGREEN);
+        ClearBackground(DARKGREEN);
+        
+        //teste
+        DrawTextureEx(image, imagePos, 0.f, 4.f, WHITE);
         EndDrawing();
     }
-
+//teste
+    UnloadTexture(image);
     CloseWindow();
 
     return 0;
